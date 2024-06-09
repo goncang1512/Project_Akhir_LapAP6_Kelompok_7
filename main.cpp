@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+    system("cls");
     vector<Project*> projects;
     int choice;
 
